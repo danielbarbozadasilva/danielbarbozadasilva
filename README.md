@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm Daniel Barboza da Silva</h1>
 <h3 align="center">I'm a Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **projeto04 - Sistema de gerenciamento**
+- 🔭 I’m currently working on **ecommerce-nodejs-api** project
 
-- 🌱 I’m currently learning **Bootcamp INFNET - Full Stack Developer**
+- 🌱 Finished **Bootcamp INFNET - Full Stack Developer**
 
-- 💬 Ask me about **I'm at the end of the INFNET Developer Full Stack Bootcamp. Bootcamp is 22 weeks long, 6 hours a day of intense Web Development (Front-end and Back-end) using STACK MERN. Implemented several Sites, Web Systems and APIs using technologies such as: NODEJS, REACT, REACT NATIVE, BOOTSTRAP, EXPRESSJS, HTML, CSS, JAVASCRIPT, DATABASE: MYSQL and MONGODB. PRACTICAL TRAINING for the IMPROVEMENT of HARD SKILLS and SOFT SKILLS.**
+- 💬 Ask me about **INFNET Developer Full Stack Bootcamp. Bootcamp is 22 weeks long, 6 hours a day of intense Web Development (Front-end and Back-end) using STACK MERN. Implemented several Sites, Web Systems and APIs using technologies such as: NODEJS, REACT, REACT NATIVE, BOOTSTRAP, EXPRESSJS, HTML, CSS, JAVASCRIPT, DATABASE: MYSQL and MONGODB. PRACTICAL TRAINING for the IMPROVEMENT of HARD SKILLS and SOFT SKILLS.**
 
 - 📫 How to reach me **daniel80barboza@gmail.com**
 
