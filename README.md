@@ -1,30 +1,82 @@
+<div align="center">
+  <h1 align="center">Olá! 👋 Eu sou o Daniel Barboza da Silva</h1>
+  <h3 align="center">Desenvolvedor Full-Stack | Bacharel em Sistemas de Informação | Pós-Graduado em Desenvolvimento Full-Stack</h3>
+</div>
 
-
-<h1 align="center">Hi 👋, I'm Daniel Barboza da Silva</h1>
-<h3 align="center">I'm a Full Stack Developer</h3>
-
-- 🔭 I’m currently working on **ecommerce-nodejs-api** project
-
-- 🌱 Finished **Bootcamp INFNET - Full Stack Developer**
-
-- 💬 Ask me about **INFNET Developer Full Stack Bootcamp. Bootcamp is 22 weeks long, 6 hours a day of intense Web Development (Front-end and Back-end) using STACK MERN. Implemented several Sites, Web Systems and APIs using technologies such as: NODEJS, REACT, REACT NATIVE, BOOTSTRAP, EXPRESSJS, HTML, CSS, JAVASCRIPT, DATABASE: MYSQL and MONGODB. PRACTICAL TRAINING for the IMPROVEMENT of HARD SKILLS and SOFT SKILLS.**
-
-- 📫 How to reach me **daniel80barboza@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<br>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/daniel-barboza-da-silva/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-barboza-da-silva/" height="30" width="40" /></a>
+  Ao longo da minha trajetória, tive a oportunidade de atuar em diversos projetos, aprimorando minhas habilidades em <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>ReactJS</strong>, <strong>React Native</strong>, <strong>LitElement</strong>, <strong>Node.js</strong> e <strong>Express.js</strong>, além de trabalhar com bancos de dados como <strong>MongoDB</strong>, <strong>MySQL</strong> e <strong>Oracle</strong>. Sou Bacharel em Sistemas de Informação e Pós-Graduado em Desenvolvimento Full-Stack pelo Instituto Infnet, formações que me proporcionaram uma base sólida de conhecimento e a capacidade de entregar soluções eficientes e inovadoras.
 </p>
 
- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="left">
+  Atualmente, tenho o privilégio de contribuir como Desenvolvedor na <strong>GLR Consultoria em Sistemas – POPULIS</strong>. Acredito em trabalho em equipe, aprendizado contínuo e na busca incansável por melhorias para gerar valor para o negócio e para os clientes.
+</p>
 
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://expressjs.com" target="_blank"> <img  style="margin-left: 5px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<p align="left">
+  Seja muito bem-vindo ao meu perfil! Convido você a visitar meu portfólio em <a href="https://www.danielbarboza.dev" target="_blank"><strong>danielbarboza.dev</strong></a> para conhecer alguns dos projetos em que trabalhei e continuar essa conversa sobre como a tecnologia pode transformar ideias em realidade.
+</p>
 
+<br>
+
+<h3 align="left">📬 Conecte-se comigo:</h3>
+<p align="left">
+  <a href="https://www.danielbarboza.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-3B82F6?style=for-the-badge&logo=rocket&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-barboza-da-silva/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:daniel80barboza@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+</p>
+
+<br>
+
+<h3 align="left">🛠️ Tech Stack:</h3>
+<p align="left">
+  <strong>Frontend:</strong><br>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  </a>
+   <a href="https://lit.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LitElement-324FFF?style=for-the-badge&logo=lit&logoColor=white" alt="LitElement"/>
+  </a>
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  </a>
+  <br><br>
+  <strong>Backend:</strong><br>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  </a>
+  <br><br>
+  <strong>Banco de Dados:</strong><br>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  </a>
+  <br><br>
+  <strong>Ferramentas & DevOps:</strong><br>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  </a>
+</p>
